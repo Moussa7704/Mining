@@ -181,7 +181,7 @@ function App() {
                   */}<rs-layer id="slider-1-slide-1-layer-1" className="rs-selectable" data-type="shape" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:15px,25px,15px,15px;yo:220px,220px,100px,100px;" data-text="w:normal;s:20,20,12,7;l:0,0,15,9;" data-dim="w:303px,303px,303px,303px;h:2px,2px,2px,2px" data-vbility="t,t,f,f" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:190;sp:1200;sR:190;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7610;" style={{ zIndex: 8, backgroundColor: '#e33b28' }}>
                 </rs-layer>{/*
               
-                  */}<rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:5px,15px,0,0;yo:273px,273px,94px,80px;" data-text="w:normal;s:94,94,58,40;l:116,116,80,60;fw:400;" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:310;sp:1200;sR:310;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7490;" style={{ zIndex: 7, fontFamily: '"Krona One", sans-serif' }}>Digital Quarry
+                  */}<rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:5px,15px,0,0;yo:273px,273px,94px,80px;" data-text="w:normal;s:94,94,58,40;l:116,116,80,60;fw:400;" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:310;sp:1200;sR:310;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7490;" style={{ zIndex: 7, fontFamily: '"Krona One", sans-serif' }}>Digital Mine First
                 </rs-layer>{/*
 
                   */}<rs-layer id="slider-1-slide-1-layer-3" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:5px,15px,0,0;yo:385px,385px,170px,130px;" data-text="w:normal;s:94,94,58,40;l:116,116,80,60;fw:400;" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:440;sp:1200;sR:440;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7360;" style={{ zIndex: 7, fontFamily: '"Krona One", sans-serif' }}>Mining
@@ -212,10 +212,10 @@ function App() {
                   */}<rs-layer id="slider-1-slide-4-layer-1" className="rs-selectable" data-type="shape" data-rsp_ch="on" data-xy="x:c,c,c,c;xo:15px,15px,0,0;yo:220px,220px,100px,100px;" data-text="w:normal;s:20,20,12,7;l:0,0,15,9;" data-dim="w:390px,390px,390px,390px;h:2px,2px,2px,2px" data-vbility="t,t,f,f" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:190;sp:1200;sR:190;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7610;" style={{ zIndex: 8, backgroundColor: '#e33b28' }}>
                 </rs-layer>{/*
               
-                   */}<rs-layer id="slider-1-slide-4-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:c,c,c,c;xo:5px,5px,0,0;yo:250px,273px,74px,84px;" data-text="w:normal;s:94,94,58,30;l:116,116,80,60;fw:400;" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:310;sp:1200;sR:310;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7490;" style={{ zIndex: 7, fontFamily: '"Krona One", sans-serif' }}>Golden Horizons In
+                   */}<rs-layer id="slider-1-slide-4-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:c,c,c,c;xo:5px,5px,0,0;yo:250px,273px,74px,84px;" data-text="w:normal;s:94,94,58,30;l:116,116,80,60;fw:400;" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:310;sp:1200;sR:310;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7490;" style={{ zIndex: 7, fontFamily: '"Krona One", sans-serif' }}>Horizons Mine 
                 </rs-layer>{/*
 
-                  */}<rs-layer id="slider-1-slide-4-layer-3" data-type="text" data-rsp_ch="on" data-xy="x:c,c,c,c;xo:5px,5px,0,0;yo:360px,385px,135px,135px;" data-text="w:normal;s:94,94,58,30;l:116,116,80,60;fw:400;" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:440;sp:1200;sR:440;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7360;" style={{ zIndex: 7, fontFamily: '"Krona One", sans-serif' }}>Mines
+                  */}<rs-layer id="slider-1-slide-4-layer-3" data-type="text" data-rsp_ch="on" data-xy="x:c,c,c,c;xo:5px,5px,0,0;yo:360px,385px,135px,135px;" data-text="w:normal;s:94,94,58,30;l:116,116,80,60;fw:400;" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:440;sp:1200;sR:440;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7360;" style={{ zIndex: 7, fontFamily: '"Krona One", sans-serif' }}>First
                 </rs-layer>{/*
 
                   */}<rs-layer id="slider-1-slide-4-layer-4" data-type="text" data-color="rgba(255 255 255 / 70%)" data-rsp_ch="on" data-xy="x:c,c,c,c;xo:412px,400px,0,0;yo:380px,405px,215px,205px;" data-text="w:normal;s:16;l:26,26,26,20;fw:400;" data-vbility="t,t,t,f" data-frame_0="y:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:680;sp:1200;sR:680;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7120;" style={{ zIndex: 8, fontFamily: '"Kumbh Sans", sans-serif' }}>The art of exploiting with high safety standards and <br /> unprofitable mine is fit only for the sepulcher of a<br /> dead mule of manufactory
@@ -241,7 +241,7 @@ function App() {
                   <div className="section-title mb-0">
                     <div className="title-header">
                       <h3>About mining</h3>
-                      <h2 className="title">Extracting stone with latest techniques</h2>
+                      <h2 className="title">Extraire la pierre avec les dernières techniques</h2>
                     </div>
                     <div className="title-desc">
                       <p className="pb-0">The business of installing mineral processing plants and bulk handling system since 1975. Specializing in the research, development, and manufacture of industrial stone crushing &amp; screening equipment’s. Equipped with intelligent productions!</p>
@@ -265,7 +265,7 @@ function App() {
                 <div className="row">
                   <div className="col-xl-6 col-lg-12 col-md-12">
                     <div className="aboutcta">
-                      <h3>New to mining service?</h3>
+                      <h3>New to Mine First service?</h3>
                     </div>
                   </div>
                   <div className="col-xl-6 col-lg-12 col-md-12 res-1199-pt-20">
@@ -286,8 +286,8 @@ function App() {
                   {/* section title */}
                   <div className="section-title title-style-center_text">
                     <div className="title-header">
-                      <h3>what we provide</h3>
-                      <h2 className="title">We offering best services</h2>
+                      <h3>ce que nous fournissons</h3>
+                      <h2 className="title">Nous offrons les meilleurs services</h2>
                     </div>
                   </div>{/* section title end */}
                 </div>
@@ -302,10 +302,10 @@ function App() {
                     </div>{/* featured-thumbnail end*/}
                     <div className="featured-content">
                       <div className="featured-title">
-                        <h3><a href="responsible-mining.html">Responsible mining</a></h3>
+                        <h3><a href="responsible-mining.html">Une exploitation minière responsable</a></h3>
                       </div>
                       <div className="featured-desc">
-                        <p>Environmental impact, and prioritizes a fair division of economic and with financial benefits.</p>
+                        <p>Impact environnemental et donne la priorité à une répartition équitable des avantages économiques et financiers.</p>
                       </div>
                     </div>
                   </div>{/* featured-imagebox-services end*/}
@@ -319,10 +319,10 @@ function App() {
                     </div>{/* featured-thumbnail end*/}
                     <div className="featured-content">
                       <div className="featured-title">
-                        <h3><a href="mobile-crane-services.html">Mobile crane services</a></h3>
+                        <h3><a href="mobile-crane-services.html">Services de grues mobiles</a></h3>
                       </div>
                       <div className="featured-desc">
-                        <p>Finest quality &amp; advanced technologies by vendors, the offered assortment is highly durable.</p>
+                        <p>La meilleure qualité &amp; technologies avancées par les fournisseurs, l'assortiment proposé est très durable.</p>
                       </div>
                     </div>
                   </div>{/* featured-imagebox-services end*/}
