@@ -16,7 +16,7 @@ function App() {
                     {/* site-branding */}
                     <div className="site-branding">
                       <h1><a className="home-link" href="index.html" title="Minemo" rel="home">
-                        <img id="logo-img" height={45} width={224} className="img-fluid auto_size" src="images/logo-light.svg" alt="logo-img" />
+                        <h2>Mine First</h2>
                       </a></h1>
                     </div>{/* site-branding end */}
                     <div className="top_bar_contact_item with-icon top_bar_address ms-auto">
